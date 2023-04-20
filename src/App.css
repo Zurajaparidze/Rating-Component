@@ -1,0 +1,14 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: #131518;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit {
+    height: 45px;
+    width: 279px;
+    border-radius: 22.5px;
+}
